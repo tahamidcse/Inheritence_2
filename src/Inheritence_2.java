@@ -670,7 +670,7 @@ public class Tester{
 }
 
 
-/**
+/*EXPECTED OUTPUT
  Enter the type (O - Onetime, D - Daily, or M - Monthly): M
  Enter a description: MJUT
  Enter the year: 2562

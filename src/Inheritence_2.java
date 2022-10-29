@@ -389,17 +389,9 @@ public class AppointmentBook{
 }
 
 
+/*
+INPUT
 
-/*EXPECTED OUTPUT
-
-        1. Add an appointment
-        2. Search for appointments
-        O. Exit
-        Enter your choice: 1
-        Enter appointment year: 2019
-        Enter appoinement month: 10
-        Enter appoinement day: 11
-        Enter appointment description: to consult doctor
         Enter appointment type:
         1. Onetime
         2. Daily
@@ -412,7 +404,16 @@ public class AppointmentBook{
         Enter appointment year: 2019
         Enter appoinement month: 11
         Enter appoinement day: 10
-        Enter appointment description: to do this
+        Enter appointment description: to consult doctor
+       
+*/
+
+
+/*EXPECTED OUTPUT
+
+    
+        Details of appointments on 2019-11-10 are:
+        Description: to consult doctor
 
 */
 
